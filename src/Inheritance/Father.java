@@ -10,11 +10,14 @@ public class Father extends Grandfather {
 		f.city();
 		f.country();
 		System.out.println(f.i);//Example that even variable can be inherited
+		//This is test 1
+		//this is test 2
+		//this is test 3
 
 	}
 	public void fatheractivities() {
 		
-		System.out.println("Father Activities")
+		System.out.println("Father Activities");
 	}
 	
 
